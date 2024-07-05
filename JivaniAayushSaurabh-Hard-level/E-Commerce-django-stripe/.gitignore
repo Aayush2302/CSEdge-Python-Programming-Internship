@@ -1,0 +1,42 @@
+# Python
+*.py[cod]
+*.pyo
+*.pyd
+__pycache__
+*.so
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+*.mo
+*.pot
+*.py[cod]
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env.bak/
+env/
+
+# IDEs
+.idea/
+.vscode/
+
+# Environment variables
+.env
+
+# Static and media files
+static/
+media/
+
+# macOS
+.DS_Store
+
+# Others
+*.swp

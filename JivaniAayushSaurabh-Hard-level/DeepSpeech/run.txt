@@ -1,0 +1,3 @@
+python Basic.py -m "C:\Users\91812\CSEdge-Python-Programming-Internship\JivaniAayushSaurabh-Hard-level\DeepSpeech\deepspeech-0.9.3-models.pbmm" -s "C:\Users\91812\CSEdge-Python-Programming-Internship\JivaniAayushSaurabh-Hard-level\DeepSpeech\deepspeech-0.9.3-models.scorer"
+
+python Basic.py -m "model path .pbmm" -s "scorer model path"
